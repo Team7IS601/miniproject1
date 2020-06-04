@@ -9,5 +9,5 @@ Sections:
 2. Git and Git Commands
 3. Productivity and Competitiveness
 4. Sources
-5. Changelog
+5. [Changelog](http://github.com)
 
