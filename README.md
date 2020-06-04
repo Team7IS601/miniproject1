@@ -1,6 +1,14 @@
-# miniproject1
-SECTION 2
-9.  _Checkout:_ Used to switch from one branch to another.   (Source:  https://dzone.com/articles/top-20-git-commands-with-examples 
-* __DOCKER:__ (PaaS) that uses OS-level virtualization to deliver software in packages called containers. (Source: https://en.wikipedia.org/wiki/Docker_(software) )
-https://learngitbranching.js.org
+# Mini Project 1 
+Adam Adamson  
+Michael Maddaloni  
+Ryan Melink  
+Professor Williams  
+NJIT IS 601 Web Systems Development  
 
+
+Here are our sections where you will find useful information organized by topic:
+1. [Platform Software](https://github.com/Team7IS601/miniproject1/tree/master/Section%201/Platform%20Software)
+2. [Git and Git Commands](https://github.com/Team7IS601/miniproject1/tree/master/Section%202)
+3. [Productivity and Competitiveness](https://github.com/Team7IS601/miniproject1/tree/master/Section%203/Productivity%20and%20Competitiveness)
+4. [Sources](https://github.com/Team7IS601/miniproject1/tree/master/Section%204/Sources)
+5. [Changelog](https://github.com/Team7IS601/miniproject1/tree/master/Section%205)
