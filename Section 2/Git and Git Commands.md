@@ -35,3 +35,20 @@ When creating your public repository from a fork of someone's project, make sure
 Related Sources:
 https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo
 
+## Branch
+Whenever you propose a change in Git, you create a new branch. Branch management is an important part of the Git workflow. After some time, your list of branches may grow, so it's a good idea to delete merged or stale branches.
+
+[Setting the default branch→](https://help.github.com/en/github/administering-a-repository/setting-the-default-branch)
+
+The default branch is considered the base branch in your repository, against which all pull requests and code commits are automatically made, unless you specify a different branch.
+
+[Viewing branches in your repository→](https://help.github.com/en/github/administering-a-repository/viewing-branches-in-your-repository)
+
+Branches are central to collaboration on GitHub, and the best way to view them is the branches page.
+
+[Deleting and restoring branches in a pull request→](https://help.github.com/en/github/administering-a-repository/deleting-and-restoring-branches-in-a-pull-request)
+
+If you have write access in a repository, you can delete branches that are associated with closed or merged pull requests. You cannot delete branches that are associated with open pull requests.
+
+Related Sources: 
+https://help.github.com/en/github/administering-a-repository/managing-branches-in-your-repository
