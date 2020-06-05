@@ -1,6 +1,5 @@
+
 ## Repo
-
-
 Repo is a tool built on top of Git. Repo helps manage many Git repositories, does the uploads to revision control systems, and automates parts of the development workflow. Repo is not meant to replace Git, only to make it easier to work with Git. The repo command is an executable Python script that you can put anywhere in your path.
 
 Related Sources:
@@ -52,3 +51,25 @@ If you have write access in a repository, you can delete branches that are assoc
 
 Related Sources: 
 https://help.github.com/en/github/administering-a-repository/managing-branches-in-your-repository
+
+ ## Push	
+ Sends committed changes of master branch to the remote repository.
+ 
+ ## Pull	
+ Fetches and merges changes on the remote server to the current local directory.
+ 
+ ## Add	
+ Adds a file to the staging area.
+ 
+ ## Rm 	
+ Removes a file from the repository.
+ 
+ ## Show
+ Shows the metadata and content changes of the specified commit.
+ 
+ ## Status	
+ Will list all the files that are to be commited
+
+ ## MasterBranch	
+ The default branch in Git, initiated by the first commit made on the project.
+
