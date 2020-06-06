@@ -112,3 +112,9 @@ https://git-scm.com/docs/git-merge
  
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
+ 
+ ## Git Configuration
+ Git config lets you create configuration variables. These variable control the way Git is styled. 
+ 
+ Related Sources:
+ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
