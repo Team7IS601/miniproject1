@@ -67,24 +67,45 @@ https://git-scm.com/docs/git-merge
 
  ## Push	
  Sends committed changes of master branch to the remote repository.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Pull	
  Fetches and merges changes on the remote server to the current local directory.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Add	
  Adds a file to the staging area.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Rm 	
- Removes a file from the repository.
+ Removes a file or collection of files from the repository.  
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Show
- Shows the metadata and content changes of the specified commit.
+ Shows the metadata and content changes of the specified commit. Useful because it allows the developer to look at a commit's contents from the command line.
+
+ Related Sources:
+ https://frontendmasters.com/courses/git-in-depth/git-show-and-diffs/
  
  ## Status	
  Will list all the files that are to be commited
 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+
  ## MasterBranch 	
  The default branch in Git, initiated by the first commit made on the project.
+ 
+ Related Sources:
+ https://www.javatpoint.com/git-branch
 
  ## Checkout
  The command which is used to switch from one branch to another.
