@@ -83,6 +83,6 @@ https://git-scm.com/docs/git-merge
  ## Status	
  Will list all the files that are to be commited
 
- ## MasterBranch	
+ ## MasterBranch 	
  The default branch in Git, initiated by the first commit made on the project.
 
