@@ -86,3 +86,8 @@ https://git-scm.com/docs/git-merge
  ## MasterBranch 	
  The default branch in Git, initiated by the first commit made on the project.
 
+ ## Checkout
+ The command which is used to switch from one branch to another.
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
