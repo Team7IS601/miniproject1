@@ -52,6 +52,19 @@ If you have write access in a repository, you can delete branches that are assoc
 Related Sources: 
 https://help.github.com/en/github/administering-a-repository/managing-branches-in-your-repository
 
+## Commit
+Record changes to the repository. Creates a new commit containing the current contents of the index and the given log message describing the changes.
+
+Related Sources: 
+https://git-scm.com/docs/git-commit
+
+## Merge
+Join two or more development histories together. Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch. 
+
+Related Sources:
+https://git-scm.com/docs/git-merge
+
+
  ## Push	
  Sends committed changes of master branch to the remote repository.
  
