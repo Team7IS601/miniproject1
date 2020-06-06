@@ -67,22 +67,73 @@ https://git-scm.com/docs/git-merge
 
  ## Push	
  Sends committed changes of master branch to the remote repository.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Pull	
  Fetches and merges changes on the remote server to the current local directory.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Add	
  Adds a file to the staging area.
+
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Rm 	
- Removes a file from the repository.
+ Removes a file or collection of files from the repository.  
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Show
- Shows the metadata and content changes of the specified commit.
+ Shows the metadata and content changes of the specified commit. Useful because it allows the developer to look at a commit's contents from the command line.
+
+ Related Sources:
+ https://frontendmasters.com/courses/git-in-depth/git-show-and-diffs/
  
  ## Status	
  Will list all the files that are to be commited
 
- ## MasterBranch	
- The default branch in Git, initiated by the first commit made on the project.
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
 
+ ## MasterBranch 	
+ The default branch in Git, initiated by the first commit made on the project.
+ 
+ Related Sources:
+ https://www.javatpoint.com/git-branch
+
+ ## Checkout
+ The command which is used to switch from one branch to another.
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+ 
+ ## Git Configuration
+ Git config lets you create configuration variables. These variable control the way Git is styled. 
+ 
+ Related Sources:
+ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+ ## Git Init
+ This command is used to start a new repository.
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+ 
+ ## Git Reset
+ This command unstages the file, but it preserves the file contents.
+ 
+ Related Source:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+ 
+ ## Git Tag
+ This command is used to give tags to the specified commit.
+ 
+ Related Source:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+ 
