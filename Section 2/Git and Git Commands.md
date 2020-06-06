@@ -118,3 +118,10 @@ https://git-scm.com/docs/git-merge
  
  Related Sources:
  https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+
+ ## Git Init
+ This command is used to start a new repository.
+ 
+ Related Sources:
+ https://dzone.com/articles/top-20-git-commands-with-examples
+ 
