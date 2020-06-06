@@ -125,10 +125,15 @@ https://git-scm.com/docs/git-merge
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
  
-  ## Git Reset
+ ## Git Reset
  This command unstages the file, but it preserves the file contents.
  
  Related Source:
  https://dzone.com/articles/top-20-git-commands-with-examples
  
+ ## Git Tag
+ This command is used to give tags to the specified commit.
+ 
+ Related Source:
+ https://dzone.com/articles/top-20-git-commands-with-examples
  
