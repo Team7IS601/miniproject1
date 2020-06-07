@@ -10,8 +10,8 @@
 - Forking is the process of making a copy of a repository so you can make changes without affecting said repository. Forking is convenient because you can pull changes from the main repo easily. You are also connected and merging data is simple. 
 - Cloning a repository creates a local copy on the system that you are using. You will not be able to pull changes from the original repo that you copied from because they are local. Cloning can be essential when you want to back up a repo. 
 
-
-
+## Pull Request 
+- A pull request is an awesome part of git. Once a contributor makes changes they can submit these changes to the main repo via a pull request. A pull request is considered a work flow method. You essentially create a pull request to transfer changes made by contributors to repos so that the main repo contains everyone's contributions. 
 
 
 
