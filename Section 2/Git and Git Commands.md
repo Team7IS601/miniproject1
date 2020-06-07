@@ -66,7 +66,7 @@ https://git-scm.com/docs/git-merge
 
 
  ## Push	
- Sends committed changes of master branch to the remote repository.
+ Sends committed changes of master branch to the remote repository after completing work.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
