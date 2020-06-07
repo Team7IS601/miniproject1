@@ -5,3 +5,8 @@ One of the most difficult problems in software development is working in multipl
 Docker is a set of platform as a service (PaaS) products that uses OS-level virtualization to deliver software in packages called containers.  
 
 The time to go from "zero to coding" without Docker adds hours to a developer's workflow.  Like Git, Docker allows developers to rollback changes with relative ease while allowing them to test new applications without building out infrastructure every time.  There is no need for the developer to install software packages locally because everything will run on the Docker engine as containers.
+
+###### Productivity
+Docker packages an application and its dependencies in a virtual container that can run on any Linux server which helps provide flexibility and portability enabling the application to be run in various locations.  In short, it can run on all team members' machines regardless of the machine's native OS or platform.  Developers are keen to use Docker because it cuts down on much of the busy work which comes with non-containerized solutions.  
+
+Docker has a few productivity tools integrated to increase efficiency and productivity including a cloud-managed container registry service, organizational access control, and slack integration for automated communcation.  
