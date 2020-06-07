@@ -66,19 +66,19 @@ https://git-scm.com/docs/git-merge
 
 
  ## Push	
- Sends committed changes of master branch to the remote repository.
+ Sends committed changes of master branch to the remote repository after completing work.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Pull	
- Fetches and merges changes on the remote server to the current local directory.
+ Fetches and then merges changes on the remote server to the current local directory.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Add	
- Adds a file to the staging area.
+ Adds a file on local repository to the staging area.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
@@ -96,7 +96,7 @@ https://git-scm.com/docs/git-merge
  https://frontendmasters.com/courses/git-in-depth/git-show-and-diffs/
  
  ## Status	
- Will list all the files that are to be commited
+ Lists all the files that are to be commited.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
