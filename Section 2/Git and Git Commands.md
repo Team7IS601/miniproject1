@@ -72,7 +72,7 @@ https://git-scm.com/docs/git-merge
  https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Pull	
- Fetches and merges changes on the remote server to the current local directory.
+ Fetches and then merges changes on the remote server to the current local directory.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
