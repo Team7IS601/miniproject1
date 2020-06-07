@@ -8,7 +8,7 @@
 
 ## Forking vs Cloning
 - Forking is the process of making a copy of a repository so you can make changes without affecting said repository. Forking is convenient because you can pull changes from the main repo easily. You are also connected and merging data is simple. 
-
+- Cloning a repository creates a local copy on the system that you are using. You will not be able to pull changes from the original repo that you copied from because they are local. Cloning can be essential when you want to back up a repo. 
 
 
 
