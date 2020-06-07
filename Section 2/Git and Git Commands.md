@@ -96,7 +96,7 @@ https://git-scm.com/docs/git-merge
  https://frontendmasters.com/courses/git-in-depth/git-show-and-diffs/
  
  ## Status	
- Will list all the files that are to be commited
+ Lists all the files that are to be commited.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
