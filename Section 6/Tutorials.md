@@ -13,6 +13,8 @@
 ## Pull Request 
 - A pull request is an awesome part of git. Once a contributor makes changes they can submit these changes to the main repo via a pull request. A pull request is considered a work flow method. You essentially create a pull request to transfer changes made by contributors to repos so that the main repo contains everyone's contributions. 
 
+## Adding a collaborator to a Github Repo.
+- Under the main page of your repo click settings.
 
 
 
