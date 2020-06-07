@@ -15,7 +15,7 @@
 
 ## Adding a collaborator to a Github Repo.
 - Under the main page of your repo click settings.
-
+- In the left sidebar you can click on collaborators 
 
 
 
