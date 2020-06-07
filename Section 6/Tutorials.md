@@ -18,7 +18,7 @@
 - In the left sidebar you can click on collaborators. 
 - Type in the username of the collaborator that you want to add
 - Click the collaborators name/username 
-
+- Click add collaborator
 
 
 
