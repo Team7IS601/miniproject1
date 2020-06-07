@@ -78,7 +78,7 @@ https://git-scm.com/docs/git-merge
  https://dzone.com/articles/top-20-git-commands-with-examples
  
  ## Add	
- Adds a file to the staging area.
+ Adds a file on local repository to the staging area.
 
  Related Sources:
  https://dzone.com/articles/top-20-git-commands-with-examples
