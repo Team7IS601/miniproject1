@@ -7,11 +7,9 @@
 - There can be several conflicts when merging your branch with the master branch or another branch. This link will show you the potentia problems and outcomes when merging conflicts arise.  
 
 <div class="row">
-  <div class="column">
     <img src="/Images/Tutorial Section 6 - 2.png" width=200 height=400>
   </div>
   <div class="row">
-    <div class="column">
     <img src="/Images/Tutorial Section 6.png" width=300 height=450>
   </div>
 </div>
