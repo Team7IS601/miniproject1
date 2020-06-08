@@ -6,11 +6,13 @@
 ## Merging Branch Conflicts
 - There can be several conflicts when merging your branch with the master branch or another branch. This link will show you the potentia problems and outcomes when merging conflicts arise.  
 
+
 <div class="row">
-    <img src="/Images/Tutorial Section 6 - 2.png" width=100 height=200>
+  <div class="column">
+    <img src="/Images/Tutorial Section 6 - 2.png" width=300 height=500>
   </div>
-  <div class="row">
-    <img src="/Images/Tutorial Section 6.png" width=150 height=225>
+  <div class="column">
+    <img src="/Images/Tutorial Section 6.png" width=400 height=500>
   </div>
 </div>
 
