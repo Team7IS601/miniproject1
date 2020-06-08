@@ -4,8 +4,8 @@
 - Merging your branch into the master branch is necessary when you have completed your task and want to utilize these changes in the main branch. 
 
 ## Merging Branch Conflicts
-- There can be several conflicts when merging your branch with the master branch or another branch. This link will show you the potentia problems and outcomes when merging conflicts arise. (https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging )
-! [](images/Tutorial%20Section%206.png)
+- There can be several conflicts when merging your branch with the master branch or another branch. This link will show you the potentia problems and outcomes when merging conflicts arise. (https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging ) 
+![](images/Tutorial%20Section%206.png) 
 
 ## Forking vs Cloning
 - Forking is the process of making a copy of a repository so you can make changes without affecting said repository. Forking is convenient because you can pull changes from the main repo easily. You are also connected and merging data is simple. 
