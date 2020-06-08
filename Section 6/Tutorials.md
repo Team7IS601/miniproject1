@@ -6,14 +6,21 @@
 ## Merging Branch Conflicts
 - There can be several conflicts when merging your branch with the master branch or another branch. This link will show you the potentia problems and outcomes when merging conflicts arise.  
 
-![](/Images/Tutorial%20Section%206.png)
+Merging Branch Conflicts|Source: https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging 
+:-------------------------:|:-------------------------:
+<img src="/Images/Tutorial Section 6 - 2.png" width=300 height=500>  |  <img src="/Images/Tutorial Section 6.png" width=400 height=500>
+
 
 ## Forking vs Cloning
 - Forking is the process of making a copy of a repository so you can make changes without affecting said repository. Forking is convenient because you can pull changes from the main repo easily. You are also connected and merging data is simple. 
 - Cloning a repository creates a local copy on the system that you are using. You will not be able to pull changes from the original repo that you copied from because they are local. Cloning can be essential when you want to back up a repo. 
 
+<img src="/Images/Difference-between-Git-Clone-and-Git-Fork.png" width=300 height=200>
+
 ## Pull Request 
 - A pull request is an awesome part of git. Once a contributor makes changes they can submit these changes to the main repo via a pull request. A pull request is considered a work flow method. You essentially create a pull request to transfer changes made by contributors to repos so that the main repo contains everyone's contributions. 
+
+<img src="/Images/pullrequest1.png" width=1200 height=200>
 
 ## Adding a collaborator to a Github Repo.
 - Under the main page of your repo click settings.
